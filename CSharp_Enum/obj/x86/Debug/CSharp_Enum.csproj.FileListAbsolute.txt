@@ -1,0 +1,5 @@
+C:\Users\NOMA\Documents\Projects\CSharp_Enum\CSharp_Enum\bin\Debug\CSharp_Enum.exe
+C:\Users\NOMA\Documents\Projects\CSharp_Enum\CSharp_Enum\bin\Debug\CSharp_Enum.pdb
+C:\Users\NOMA\Documents\Projects\CSharp_Enum\CSharp_Enum\obj\x86\Debug\CSharp_Enum.csprojResolveAssemblyReference.cache
+C:\Users\NOMA\Documents\Projects\CSharp_Enum\CSharp_Enum\obj\x86\Debug\CSharp_Enum.exe
+C:\Users\NOMA\Documents\Projects\CSharp_Enum\CSharp_Enum\obj\x86\Debug\CSharp_Enum.pdb
